@@ -6,7 +6,7 @@ Geometry Nodes for scattering of nature assets.
 
 Download: [nature-scatter.blend](https://github.com/balazsfekete/nature-scatter/raw/main/nature-scatter.blend)
 
-## Settings
+### Settings
 
 - `Show Emitter` - Toggle to show input geometry.
 - `Use Proxies` - Toggle to display instances as bounding box wireframes. This option affects only the viewport, renders will show full geometry of instances.
